@@ -1,0 +1,13 @@
+In order to run the program, run the following commands in terminal while you're in this directory
+    $ javac Main.java
+    $ java -cp $(pwd) Main
+
+The Credentials for the admin are hardcoded as follows:   
+    Username: Admin
+    Password: Admin001
+
+The Credentials for the dummy student account is ass follows:
+    Username: johnsmith
+    Password: password
+
+Follow the on-screen prompts and select the various choice to go through the program
